@@ -1,1 +1,2 @@
 # caesar-cipher
+To encrypt a message with a Caesar cipher, each letter in the message is changed using a simple rule: shift by three. Each letter is replaced by the letter three letters later in the alphabet. A becomes D, B becomes E, and so on. For the last letters, we can think of the alphabet as a circle and "wrap around", but in this challenge i give the user the possibility to shift each letter by the amount the user wishes
